@@ -1,0 +1,5 @@
+﻿O código realiza a ordenação por meio de uma função hash.
+
+É realizada a leitura do arquivo do Bolsa Familia e grava pelo valor do NIS.
+
+Pelo terminal, é executado o comando python Ordena_Hash.py
